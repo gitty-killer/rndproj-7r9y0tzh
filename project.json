@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-7r9y0tzh"",
-  ""goal"": ""sync worker for search indexing"",
-  ""language"": ""python"",
-  ""template"": ""python-etl""
+    "name":  "rndproj-7r9y0tzh",
+    "goal":  "sync worker for search indexing",
+    "language":  "python",
+    "template":  "python-etl"
 }
